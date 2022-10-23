@@ -18,6 +18,10 @@ header {
   color: #fff;
 }
 
+header a:hover {
+  color: darkblue;
+}
+
 header h1 {
   display: inline-block;
   font-size: 48px;
@@ -49,7 +53,7 @@ p {
   font-size: 16px;
 }
 
-.hero {
+/*.hero {
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
@@ -57,6 +61,7 @@ p {
   background-size: cover;
   background-position: center;
 }
+*/
 
 .float-left {
   float: left;
