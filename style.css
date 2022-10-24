@@ -53,16 +53,6 @@ p {
   font-size: 16px;
 }
 
-/*.hero {
-  height: 800px;
-  width: 100%;
-  margin-bottom: 25px;
-  background-image: url("../images/digital-marketing-meeting.jpg");
-  background-size: cover;
-  background-position: center;
-}
-*/
-
 .float-left {
   float: left;
   margin-right: 25px;
@@ -81,6 +71,7 @@ p {
   flex-wrap: wrap;
   justify-content: center;
   position: relative;
+  width: 50%;
 }
 
 .AboutMe {
@@ -133,7 +124,7 @@ p {
   position: relative;
 }
 
-/* Bottom right text */
+/* Top right text */
 .text-block {
   position: absolute;
   right: 20px;
@@ -142,6 +133,18 @@ p {
   padding-right: 20px;
 }
 
+.AboutMe:hover {
+  transform: scale(1.15);
+}
+.ContactMe:hover {
+  transform: scale(1.15);
+}
+.Work:hover {
+  transform: scale(1.15);
+}
+.Resume:hover {
+  transform: scale(1.15);
+}
 .footer {
   padding: 30px;
   clear: both;
