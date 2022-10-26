@@ -1,6 +1,4 @@
-# Challenge_2
-
-# Challenge 1 (Oct. 17)
+# Challenge_2 (Oct. 24)
 
 ## Description
 
